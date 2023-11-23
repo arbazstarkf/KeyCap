@@ -11,7 +11,7 @@ log_file_path = os.path.join(current_directory, "keylogs.txt")
 # creating variable to check for the key combination to stop the listener
 current_keys = set()
 
-# create the key combination to stop the listener
+# creating the key combination to stop the listener
 STOP_COMBINATION = {Key.ctrl_l, Key.alt_l, KeyCode.from_char('q')}
 
 # Function to write logs to the file and check for the stop combination

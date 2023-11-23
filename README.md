@@ -1,2 +1,3 @@
 # KeyCap
-A Simple Keylogger made using &lt;3 Python
+-A Simple Keylogger made using ❤️ Python.
+-Added Windows Executable
